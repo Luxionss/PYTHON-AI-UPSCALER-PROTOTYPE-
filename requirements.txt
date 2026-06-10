@@ -1,0 +1,10 @@
+PyQt6
+opencv-python
+numpy
+torch
+torchvision
+basicsr
+realesrgan
+facexlib
+gfpgan
+tqdm
