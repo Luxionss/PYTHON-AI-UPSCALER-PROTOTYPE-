@@ -9,11 +9,11 @@
 **EN:** A tool developed with Python that upscales images and videos to 2x or 4x resolution using artificial intelligence (Real-ESRGAN).
 
 ## Özellikler / Features
-- **AI Upscaling:** Real-ESRGAN motoru ile yüksek kalite.
+- **AI Upscaling:** Real-ESRGAN motoru
 - **Post-Processing:** Keskinlik (Sharpen), Kontrast ve Denoise ayarları.
 - **Dual Language:** Türkçe ve İngilizce arayüz desteği.
-- **GPU/CPU Support:** CUDA desteği ile hızlı işlem.
-- **Auto-Model Download:** Model dosyası eksikse otomatik olarak indirilir.
+- **GPU/CPU Support:** CUDA desteği
+- **Auto-Model Download:** Model dosyası eksikse otomatik olarak indiriyor.
 
 ## Kurulum / Installation
 
@@ -27,8 +27,8 @@
    ```
 3. **FFmpeg:** Video işlemleri için bilgisayarınızda FFmpeg kurulu olmalıdır.
 
-## 🛠️ Sorun Giderme / Troubleshooting
-Eğer `basicsr` hatası alırsanız, şu komutları sırayla çalıştırın:
+## Sorun Giderme / Troubleshooting
+Eğer `basicsr` hatası alırsanız, şu komutları sırayla çalıştırın: if you have `basicsr` error, run the following commands one by one:
 ```bash
 pip uninstall basicsr realesrgan -y
 pip install setuptools wheel
@@ -36,8 +36,8 @@ pip install basicsr --no-deps
 pip install realesrgan
 ```
 
-## 👤 Author
+## Author
 **Luxions**
 
 ---
-*Gojo ile takas olmaz abi!*
+*Gojo ile takas olurmuş abi*
