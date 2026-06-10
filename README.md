@@ -19,7 +19,7 @@
 
 1. Projeyi klonlayın / Clone the project:
    ```bash
-   git clone https://github.com/kullaniciadi/proje-adi.git
+   git clone https://github.com/Luxionss/PYTHON-AI-UPSCALER-PROTOTYPE-.git
    ```
 2. Kütüphaneleri kurun / Install requirements:
    ```bash
