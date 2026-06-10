@@ -8,13 +8,14 @@
 
 **EN:** A tool developed with Python that upscales images and videos to 2x or 4x resolution using artificial intelligence (Real-ESRGAN).
 
-## ✨ Özellikler / Features
+## Özellikler / Features
 - **AI Upscaling:** Real-ESRGAN motoru ile yüksek kalite.
 - **Post-Processing:** Keskinlik (Sharpen), Kontrast ve Denoise ayarları.
 - **Dual Language:** Türkçe ve İngilizce arayüz desteği.
 - **GPU/CPU Support:** CUDA desteği ile hızlı işlem.
+- **Auto-Model Download:** Model dosyası eksikse otomatik olarak indirilir.
 
-## 🚀 Kurulum / Installation
+## Kurulum / Installation
 
 1. Projeyi klonlayın / Clone the project:
    ```bash
